@@ -5,4 +5,5 @@ Sample spring MVC application pushed to pivotal cloud foundary using Cloud Found
 
 
 https://docs.cloudfoundry.org/cf-cli/
+cf push
 
