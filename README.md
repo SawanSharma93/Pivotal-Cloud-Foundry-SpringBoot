@@ -7,3 +7,5 @@ https://docs.cloudfoundry.org/cf-cli/getting-started.html
 
 
 
+cf push
+
