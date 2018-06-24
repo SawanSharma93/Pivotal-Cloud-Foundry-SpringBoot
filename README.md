@@ -6,5 +6,4 @@ Sample spring MVC application pushed to pivotal cloud foundary Using the Cloud F
 https://docs.cloudfoundry.org/cf-cli/getting-started.html
 
 
-cf push
 
