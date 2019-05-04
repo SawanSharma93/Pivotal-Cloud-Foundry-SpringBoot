@@ -1,0 +1,6 @@
+---
+applications:
+- name: cloud-computing.io
+  path : target\cloud-computing-1.0.0-DEV.jar
+  memory: 690M
+  buildpack: java_buildpack
